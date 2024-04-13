@@ -1,3 +1,13 @@
+# Sigurs' nvim config based on kickstart.nvim
+
+## Install
+`git clone git@github.com:sigurs/sigurs.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim`
+or
+`git clone https://github.com/sigurs/sigurs.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim`
+
+... also make sure you have a font that is patched with nerd fonts!
+
+
 # kickstart.nvim
 
 ## Introduction
